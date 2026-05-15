@@ -1,0 +1,18 @@
+struktur bab 4 
+
+4.1 hasil
+4.1.1 hasil dari rumusan masalah 
+4.1.2 hasil dari akurasi 
+
+4.2 pembahasan 
+4.2.1 tahapan pembuatan model 
+	- akuisisi dataset
+	- pre processing data	-> data cleaning 
+			   	-> data enhancement 
+				-> dll
+	- pelabelan data
+	- pembagian data train val test
+	- implementasi sistem 
+	- test dan uji
+4.2.2 cara kerja cnn 
+ dan seterusnya 
